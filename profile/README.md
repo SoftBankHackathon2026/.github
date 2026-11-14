@@ -4,12 +4,17 @@
 
 **Oneport: 온프렘 ↔ AWS ↔ GCP 사이에서 앱과 DB를 쓰기 유실 없이 옮기고, 정책·보안·AI 수정·비용까지 한 화면에서 다루는 멀티 클라우드 이전 플랫폼**
 
-[![platform](https://img.shields.io/badge/live-platform.yubin.dev-5b5bd6?style=flat-square)](https://platform.yubin.dev/#environments)
+🏆 **최우수상 수상! 함께 노력해주신 우리팀 고생많았습니다!**
+SoftBank Hackathon 2026 powered by Progate & KOREC · Main Round Grand Prize · 2026.11.7 – 8
+
+<img src="images/grand-prize-certificate.png" alt="Certificate of Grand Prize — Main Round, SoftBank Hackathon 2026" width="720">
+
+![demo](https://img.shields.io/badge/demo-2026--11--10_%EC%B2%A0%EA%B1%B0_%EC%99%84%EB%A3%8C-888?style=flat-square)
 [![Hackathon](https://img.shields.io/badge/code-Hackathon-181717?style=flat-square&logo=github)](https://github.com/SoftBankHackathon2026/Hackathon)
 [![gitops](https://img.shields.io/badge/deploy-gitops-ef7b4d?style=flat-square&logo=argo)](https://github.com/SoftBankHackathon2026/gitops)
 [![oneaction-infra](https://img.shields.io/badge/aws-oneaction--infra-7b42bc?style=flat-square&logo=terraform)](https://github.com/SoftBankHackathon2026/oneaction-infra)
 
-[**플랫폼 열기 →**](https://platform.yubin.dev/#environments)
+시연 환경(platform.yubin.dev)은 해커톤 종료 후 2026-11-10 에 철거했다. 아래 화면은 운영 당시 캡처다.
 
 <img src="images/platform-environments.jpg" alt="환경 페이지 — 온프렘 k3s · AWS EKS · GCP GKE 아키텍처 캔버스" width="900">
 
