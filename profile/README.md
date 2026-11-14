@@ -9,12 +9,9 @@ SoftBank Hackathon 2026 powered by Progate & KOREC · Main Round Grand Prize · 
 
 <img src="images/grand-prize-certificate.png" alt="Certificate of Grand Prize — Main Round, SoftBank Hackathon 2026" width="720">
 
-![demo](https://img.shields.io/badge/demo-2026--11--10_%EC%B2%A0%EA%B1%B0_%EC%99%84%EB%A3%8C-888?style=flat-square)
 [![Hackathon](https://img.shields.io/badge/code-Hackathon-181717?style=flat-square&logo=github)](https://github.com/SoftBankHackathon2026/Hackathon)
 [![gitops](https://img.shields.io/badge/deploy-gitops-ef7b4d?style=flat-square&logo=argo)](https://github.com/SoftBankHackathon2026/gitops)
 [![oneaction-infra](https://img.shields.io/badge/aws-oneaction--infra-7b42bc?style=flat-square&logo=terraform)](https://github.com/SoftBankHackathon2026/oneaction-infra)
-
-시연 환경(platform.yubin.dev)은 해커톤 종료 후 2026-11-10 에 철거했다. 아래 화면은 운영 당시 캡처다.
 
 <img src="images/platform-environments.jpg" alt="환경 페이지 — 온프렘 k3s · AWS EKS · GCP GKE 아키텍처 캔버스" width="900">
 
